@@ -1,0 +1,3 @@
+We validated the GSD algorithm using three public fMRI datasets: simulated Smith small-world network data, attention and motion measured data, and face recognition repetition effect measured data.
+The generation method of simulated Smith small-world network data has been integrated into the uploaded code. The acquisition addresses of the other two measured data sets are: 1. http://www.fil.ion.ucl.ac.uk/spm/data/attention/, 2. https://www.openfmri.org/dataset/ds000117/.
+The test code for synthetic data and attention and motion data has been uploaded to the folder "Simulation_Attention_motion". The test code for face recognition repetition effect measured data has been uploaded to the folder "Face".
